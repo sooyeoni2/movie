@@ -251,11 +251,10 @@ const scores = {
 - 프론트엔드와 백엔드 역할을 분리하여 작업
 
 ### Commit 내역 정리
-![COMMIT](front/commit.png)
 #### 2025.12.22 커밋
 > heeseong1222
 - 프론트엔드 기능 개발 및 UI 수정
-- 
+
 > sooyeon1222
 - Django API 기능 개발 및 수정
 
