@@ -82,7 +82,7 @@
 ---
 
 ## 5. 데이터베이스 모델링 (ERD)
-![ERD](erd.png)
+![ERD](front/erd.png)
 
 ---
 
@@ -251,7 +251,7 @@ const scores = {
 - 프론트엔드와 백엔드 역할을 분리하여 작업
 
 ### Commit 내역 정리
-![COMMIT](commit.png)
+![COMMIT](front/commit.png)
 #### 2025.12.22 커밋
 > heeseong1222
 - 프론트엔드 기능 개발 및 UI 수정
